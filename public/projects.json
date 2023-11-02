@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "11234g",
+      "name": "DallE",
+      "image": "dallE.png",
+      "github": "https://github.com/YaronPeres/DALL-E-clone",
+      "demo": "https://dall-e-clone-sand.vercel.app/"
+    },
+    {
+      "id": "1213lh",
+      "name": "Fast React Pizza",
+      "image": "reactPizza.png",
+      "github": "https://github.com/YaronPeres/fast-react-pizza",
+      "demo": "https://fast-react-pizza-ten.vercel.app/"
+    },
+    {
+      "id": "312fsd1",
+      "name": "Dashboard",
+      "image": "wildOasis.png",
+      "github": "https://github.com/YaronPeres/the-wild",
+      "demo": "https://the-wild-seven.vercel.app/dashboard"
+    }
+  ]
+}

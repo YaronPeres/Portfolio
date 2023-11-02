@@ -1,0 +1,25 @@
+{
+  "experience": [
+    {
+      "id": "1237ccz34",
+      "name": "IronHack",
+      "image": "IronHack.png",
+      "href": "/pdfs/IronHack.pdf",
+      "download": "IronHack.pdf"
+    },
+    {
+      "id": "123z34",
+      "name": "Resume",
+      "image": "Resume.png",
+      "href": "/pdfs/yaronperes.pdf",
+      "download": "yaronperes.pdf"
+    },
+    {
+      "id": "1206df",
+      "name": "Udemy",
+      "image": "Udemy.png",
+      "href": "/pdfs/Udemy.pdf",
+      "download": "Udemy.pdf"
+    }
+  ]
+}

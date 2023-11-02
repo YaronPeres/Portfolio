@@ -1,0 +1,90 @@
+{
+  "icon": [
+    {
+      "id": "6754d",
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/480/javascript--v1.png",
+      "website": "https://www.javascript.com/",
+      "alt": "JavaScript Icon"
+    },
+    {
+      "id": "675312",
+      "name": "React",
+      "image": "https://img.icons8.com/plasticine/480/react.png",
+      "website": "https://react.dev/",
+      "alt": "React Icon"
+    },
+    {
+      "id": "6754d312321",
+      "name": "Vite",
+      "image": "https://img.icons8.com/fluency/480/vite.png",
+      "website": "https://vitejs.dev/",
+      "alt": "Vite Icon"
+    },
+    {
+      "id": "6754asda",
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/480/mongodb.png",
+      "website": "https://www.mongodb.com/",
+      "alt": "MongoDB Icon"
+    },
+    {
+      "id": "6754d132ds",
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/480/html-5--v1.png",
+      "website": "https://html.com/",
+      "alt": "HTML Icon"
+    },
+    {
+      "id": "6754d317gd",
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/480/css3.png",
+      "website": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS",
+      "alt": "CSS Icon"
+    },
+    {
+      "id": "6754d321dvzaf",
+      "name": "Tailwindcss",
+      "image": "https://img.icons8.com/color/480/tailwindcss.png",
+      "website": "https://tailwindcss.com/",
+      "alt": "Tailwindcss Icon"
+    },
+    {
+      "id": "6754d321dvzafdas1",
+      "name": "Git",
+      "image": "https://img.icons8.com/color/480/git.png",
+      "website": "https://git-scm.com/",
+      "alt": "Git Icon"
+    },
+    {
+      "id": "6754d321dvzaf11das1",
+      "name": "Github",
+      "image": "https://img.icons8.com/ios-glyphs/480/github.png",
+      "website": "https://github.com/",
+      "alt": "Github Icon",
+      "additionalClass": "dark:bg-secondary-300 rounded-full"
+    },
+    {
+      "id": "das1",
+      "name": "Express.js",
+      "image": "https://img.icons8.com/color/480/express-js.png",
+      "website": "https://expressjs.com/",
+      "alt": "Express.js Icon",
+      "additionalClass": "dark:bg-secondary-300 rounded-xl"
+    },
+    {
+      "id": "67",
+      "name": "Node.js",
+      "image": "https://img.icons8.com/color/180/nodejs.png",
+      "website": "https://nodejs.org/en/about",
+      "alt": "Node.js Icon"
+    },
+    {
+      "id": "6754dase123gdfd",
+      "name": "Postman",
+      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png",
+      "website": "https://www.postman.com/",
+      "alt": "Postman Api Icon"
+    }
+  ]
+}

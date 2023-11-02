@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /*light theme */
+  --light-background: #fff;
+
+  /*light theme */
+  --dark-background: #10172a;
+}
+
+html {
+  --background: var(--light-background);
+}
+
+html.dark {
+  --background: var(--dark-background);
+}
+
+.content-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.content-div:hover {
+  background-image: linear-gradient(to right, #0ea6e9, #0c506e) !important;
+}
+.content-div2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.content-div2:hover {
+  background-image: linear-gradient(to right, #0ea6e9, #0c506e) !important;
+}
