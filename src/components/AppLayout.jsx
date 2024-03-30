@@ -3,10 +3,12 @@ import Home from "../pages/Home";
 import Projects from "../pages/Projects";
 import Experience from "../pages/Experience";
 import Contact from "../pages/Contact";
+import LinkButton from "./LinkButton";
 function AppLayout() {
   return (
     <>
       <Header />
+      <LinkButton />
       <Home />
       <Projects />
       <Experience />

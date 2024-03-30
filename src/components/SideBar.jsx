@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 
 import Button from "./Button";
 import DarkModeSideBar from "./DarkModeSideBar";
+import LinkButtonMobile from "./LinkButtonMobile";
 
 function SideBar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -103,6 +104,8 @@ function SideBar() {
         <div className="mx-auto ml-5">
           <DarkModeSideBar />
         </div>
+
+        <LinkButtonMobile />
       </div>
     </div>
   );

@@ -5,10 +5,10 @@ import ResumeCre from "../components/ResumeCre";
 function Experience() {
   return (
     <div name="experience" className="w-full pb-8 h-full bg-custom-background">
-      <div className="max-w-[1080px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[700px] sm:max-w-[580px] md:max-w-[680px] lg:max-w-[950px] xl:max-w-[1080px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="text-center xl:pb-4 md:text-start">
           <p className="inline border-b-4 sm:text-5xl text-4xl lg:text-6xl font-bold text-primary-950 border-primary-950 dark:text-secondary-300 dark:border-secondary-300">
-            Experience
+            Skills
           </p>
         </div>
         <div className="text-center mt-2 md:text-start">

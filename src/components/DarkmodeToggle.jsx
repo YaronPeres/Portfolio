@@ -1,3 +1,4 @@
+//DarkModeToggle.jsx
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useDarkMode } from "../hooks/useDarkMode";
 import { useEffect, useRef, useState } from "react";

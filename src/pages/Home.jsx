@@ -4,7 +4,7 @@ import Button from "../components/Button";
 function Home() {
   return (
     <div name="home" className="w-full h-screen bg-custom-background">
-      <div className="max-w-[1080px] m-auto content-between h-full md:flex-row w-full flex flex-col justify-center md:justify-around">
+      <div className="max-w-[700px] sm:max-w-[580px] md:max-w-[680px] lg:max-w-[950px] xl:max-w-[1080px] m-auto content-between h-full md:flex-row w-full flex flex-col justify-center md:justify-around">
         <div className="flex justify-center pt-20 md:pt-0">
           <img
             src={myImage}
@@ -40,7 +40,7 @@ function Home() {
             meets high standards and delivers exceptional value.
           </p>
           <Button to="projects" type="normal">
-            My projects
+            My Experience
           </Button>
         </div>
       </div>
